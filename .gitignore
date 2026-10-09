@@ -1,0 +1,11 @@
+# Macが勝手に作るファイル
+.DS_Store
+
+# 要件定義書やメモ（公開しない）
+00_notes/
+
+# 個人の予定（YOUアプリ用）
+schedule.md
+
+# Blenderの自動バックアップ
+*.blend1
